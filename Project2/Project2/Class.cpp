@@ -2,5 +2,5 @@
 
 void Class::Test()
 {
-	cout << "Test\n";
+	cout << "Testing\n";
 }
